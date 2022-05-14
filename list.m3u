@@ -55,6 +55,8 @@ http://39.134.19.248:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomai
 http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="央视",CHC家庭影院
 http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="央视",CHC高清电影
+http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视HD
 http://112.25.47.24/gitv_live/G_HUNAN-HD-265-8M/G_HUNAN-HD-265-8M.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视HD
@@ -97,8 +99,6 @@ http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
 http://hls.gstv.com.cn/49048r/6e1sy2.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtm@@
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视HD
 http://39.135.55.7:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="央视",CHC高清电影
-http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",福建综合
 http://p2.weizan.cn/11844069/132114573749498521/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门一套
@@ -107,15 +107,9 @@ http://39.135.55.7:6610/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1&IA
 http://39.135.55.7:6610/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门三套
 http://39.135.55.7:6610/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南",湖南电影
-http://111.40.196.9/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="湖南",金鹰卡通
-http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jykt/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视HD
-http://117.148.179.157/PLTV/88888888/224/3221231639/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",都市剧场HD
-http://140.207.241.3:8080/live/program/live/dsjchd/4000000/d1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",动漫秀场HD
-http://39.135.55.7:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实HD
-http://140.207.241.3:8080/live/program/live/qjshd/4000000/d1.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+http://112.25.47.24/gitv_live/G_JINYING/G_JINYING.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
+http://112.25.47.24/gitv_live/G_KAKU/G_KAKU.m3u8
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="卫视",全纪实HD
+http://39.135.55.105:6610/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1
