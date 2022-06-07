@@ -64,6 +64,38 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1
 #http://39.135.55.105:6610/PLTV/88888888/224/3221226986/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="福建IPTV",CCTV4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fjxczxgg.png" group-title="福建IPTV",福建乡村振兴公共
+http://39.135.55.105:6610/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="福建少儿" tvg-logo="http://n.ysyz.top:99/buyaolian/fjse.png" group-title="福建IPTV",福建少儿
+http://39.135.55.105:6610/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="福建体育" tvg-logo="http://n.ysyz.top:99/buyaolian/fjty.png" group-title="福建IPTV",福建文体
+http://39.135.55.105:6610/PLTV/88888888/224/3221227188/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="福建新闻" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fjxw.png" group-title="福建IPTV",福建新闻
+http://39.135.55.105:6610/PLTV/88888888/224/3221227180/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="福建旅游" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fjly.png" group-title="福建IPTV",福建旅游
+http://39.135.55.105:6610/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="福建电视剧" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fjdsj.png" group-title="福建IPTV",福建电视剧
+http://39.135.55.105:6610/PLTV/88888888/224/3221227079/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="福建经济" tvg-logo="http://n.ysyz.top:99/buyaolian/fjjj.png" group-title="福建IPTV",福建经济
+http://39.135.55.105:6610/PLTV/88888888/224/3221227184/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="福建综合" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fjzh.png" group-title="福建IPTV",福建综合
+http://39.135.55.105:6610/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="福建教育" tvg-name="" tvg-logo="" group-title="福建IPTV",福建教育
+http://39.135.55.105:6610/PLTV/88888888/224/3221227202/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fzzh.png" group-title="福建IPTV",福建·福州新闻综合
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fzys.png" group-title="福建IPTV",福建·福州影视
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fzsh.png" group-title="福建IPTV",福建·福州生活
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/fzse.png" group-title="福建IPTV",福建·福州少儿
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-id="厦门一套" tvg-name="厦门一套" tvg-logo="http://n.ysyz.top:99/buyaolian/xm1.png" group-title="福建IPTV",厦门1
+http://39.135.55.105:6610/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="厦门二套" tvg-name="厦门二套" tvg-logo="http://n.ysyz.top:99/buyaolian/xm2.png" group-title="福建IPTV",厦门2
+http://39.135.55.105:6610/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="厦门三套" tvg-name="厦门三套" tvg-logo="http://n.ysyz.top:99/buyaolian/xm3.png" group-title="福建IPTV",厦门3
+http://39.135.55.105:6610/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="福建IPTV",凤凰中文
 http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="福建IPTV",凤凰资讯
@@ -247,9 +279,3 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建IPTV",百视通电竞
 http://39.135.55.105:6610/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门一套
-http://39.135.55.7:6610/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门二套
-http://39.135.55.7:6610/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建",厦门三套
-http://39.135.55.7:6610/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1&IASHttpSessionId=OTT
