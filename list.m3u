@@ -285,3 +285,5 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建IPTV",百视通电竞
 http://39.135.55.105:6610/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.hdslb.com/bfs/face/cb620bbb9071974f37843134875d472b47532a97.jpg" group-title="游戏赛事", 哔哩哔哩英雄联盟赛事
+https://d1--cn-gotcha104.bilivideo.com/live-bvc/839875/live_7734200_bs_1348183_4000.m3u8?cdn=cn-gotcha04&expires=1655028495&len=0&oi=2094925187&pt=h5&qn=400&trid=100352c8fd1da0e942d5875aadf23b2050fc&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=1df57f6aa4cec87eaeed0fb12a77619d&ptype=0&src=57601&sl=10&source=one&sk=2935686d6cb9146c7a6a6a0b4e120e250342be3df4dc8310261aab0ce9e21e44&order=1
