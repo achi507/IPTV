@@ -286,7 +286,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建IPTV",百视通电竞
 http://39.135.55.105:6610/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.hdslb.com/bfs/face/cb620bbb9071974f37843134875d472b47532a97.jpg" group-title="游戏赛事", 哔哩哔哩英雄联盟赛事
-#https://achi507.cn:8900/bilibili/7734200
 https://live.52sf.ga/bilibili/7734200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/f84ce4b7e1684b1793a700ea7df86e68_big.jpg" group-title="游戏赛事", 女流66
 https://live.52sf.ga/douyu/156277
