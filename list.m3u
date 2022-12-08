@@ -7,8 +7,6 @@ http://hls.ye23.vip/hls/cctv2hd.m3u8
 http://hls.ye23.vip/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png" group-title="YE123",CCTV4
 http://hls.ye23.vip/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4k" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4k.png" group-title="YE123",CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="YE123",CCTV5
 http://hls.ye23.vip/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png" group-title="YE123",CCTV6
